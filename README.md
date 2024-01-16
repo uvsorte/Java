@@ -1,2 +1,2 @@
-All information About Java
+All information About Java in Detail.
 Author - Utkarsh Sorte.
